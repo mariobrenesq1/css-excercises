@@ -1,0 +1,1 @@
+This folder is used only to save the css exercises from the Odin Project page
